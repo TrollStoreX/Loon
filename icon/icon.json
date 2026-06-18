@@ -12,6 +12,9 @@
     {"name": "repo", "url": "https://trollstorex.github.io/Loon/icon/repo.png"},
     {"name": "LinkCube", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/LinkCube.png"},
     {"name": "FlowerCloud", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/FlowerCloud.png"},
-    {"name": "Telegram", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/Telegram.png"}
+    {"name": "Telegram", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/Telegram.png"},
+    {"name": "App Store", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/App Store.png"},
+    {"name": "Apple Intelligence", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/Apple Intelligence.png"},
+    {"name": "YouTube", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/YouTube.png"}
   ]
 }
