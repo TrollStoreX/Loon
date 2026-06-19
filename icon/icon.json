@@ -15,6 +15,10 @@
     {"name": "Telegram", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/Telegram.png"},
     {"name": "App Store", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/App Store.png"},
     {"name": "Apple Intelligence", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/Apple Intelligence.png"},
-    {"name": "YouTube", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/YouTube.png"}
+    {"name": "YouTube", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/YouTube.png"},
+    {"name": "Loon", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/Loon.png"},
+    {"name": "Loon2", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/Loon2.png"},
+    {"name": "X", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/X.png"},
+    {"name": "Google", "url": "https://raw.githubusercontent.com/TrollStoreX/Loon/main/icon/Google.png"}
   ]
 }
